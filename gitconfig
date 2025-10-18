@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = 234315145+Rademirac@users.noreply.github.com
+	name = Renzo Aquije
